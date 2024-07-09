@@ -1,7 +1,6 @@
 import sys
 from collections import deque
 k = int(sys.stdin.readline())
-
 w,h=map(int,sys.stdin.readline().split())
 arr=[]
 visited = [[0 for i in range(w)] for i in range(h)]
