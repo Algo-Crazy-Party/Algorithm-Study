@@ -6,6 +6,7 @@
                <td align="center"><a href="https://github.com/corinthionia"><img src="https://github.com/corinthionia.png" width="100px;" alt=""/><br/><sub><b>김주현</b></sub></a><br/></td>
              <td align="center"><a href="https://github.com/seungboshim"><img src="https://github.com/seungboshim.png" width="100px;" alt=""/><br/><sub><b>심승보</b></sub></a><br/></td>
               <td align="center"><a href="https://github.com/cokemania2"><img src="https://github.com/cokemania2.png" width="100px;" alt=""/><br/><sub><b>고명진</b></sub></a><br/></td>
+          <td align="center"><a href="https://github.com/jeonkyungwon"><img src="https://github.com/jeonkyungwon.png" width="100px;" alt=""/><br/><sub><b>전경원</b></sub></a><br/></td>
   </tr>
 </table>
 
