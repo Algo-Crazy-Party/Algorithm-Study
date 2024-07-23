@@ -1,6 +1,5 @@
 def is_matched(room, level, m):
-    if is_matchable_level(room, level) and not is_full(room, m):
-        return True
+    return is_matchable_level(room, level) and not is_full(room, m)
 
 def is_matchable_level(room, level):
     bangjang_level = room[0][0]
