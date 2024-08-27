@@ -3,7 +3,7 @@ def solution(scores):
     wanho_sum = sum(wanho)
     scores.sort(key=lambda x: (-x[0], x[1]))
     
-    rank = 0
+    rank = 1
     max_b = 0
     
     for a, b in scores:
@@ -16,5 +16,5 @@ def solution(scores):
             if wanho_sum < a + b:
                 rank += 1
                 
-    return rank + 1
+    return rank
         

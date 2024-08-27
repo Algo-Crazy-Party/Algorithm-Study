@@ -8,8 +8,7 @@ a, b, n = input().split()
 king, stone, N = getCoor(a), getCoor(b), int(n)
 
 for _ in range(N):
-    inp = input()
-    dx, dy = direction[inp]
+    dx, dy = direction[input()]
     nkx, nky = king[0]+dx, king[1]+dy
     
     if nkx < 0 or 8 <= nkx or nky < 0 or 8 <= nky:
