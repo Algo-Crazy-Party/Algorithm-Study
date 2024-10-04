@@ -19,7 +19,7 @@ def do_remain_plan(done, remain, remain_time):
 def do_plan(i, plans, done, remain):
     if i == len(plans) - 1:
         done.append(plans[i])
-        do_remain_plan(done, remain, 60 * 60 * 24)
+        do_remain_plan(done, remain, 60 * 60 * 100 * 24)
         return 
     
     now_plan = plans[i]
